@@ -1,0 +1,617 @@
+fileFormatVersion: 2
+guid: c37b68cd86cdea0498b2027b900ef7d5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3354903016161676456
+    second: JonkoBird TileMap_0
+  - first:
+      213: -7128486685120412942
+    second: JonkoBird TileMap_1
+  - first:
+      213: -8938566518758604902
+    second: JonkoBird TileMap_2
+  - first:
+      213: -2198950942690212486
+    second: JonkoBird TileMap_3
+  - first:
+      213: -3890376866772959668
+    second: JonkoBird TileMap_4
+  - first:
+      213: -3126200168218048820
+    second: JonkoBird TileMap_5
+  - first:
+      213: 7652568646981928077
+    second: JonkoBird TileMap_6
+  - first:
+      213: -678492287074484521
+    second: JonkoBird TileMap_7
+  - first:
+      213: 2424230318463765018
+    second: JonkoBird TileMap_8
+  - first:
+      213: 8933520352462702727
+    second: JonkoBird TileMap_9
+  - first:
+      213: -3123740385669423036
+    second: JonkoBird TileMap_10
+  - first:
+      213: -784665498583246302
+    second: JonkoBird TileMap_11
+  - first:
+      213: 7007584780553768559
+    second: JonkoBird TileMap_12
+  - first:
+      213: -5252611667203330038
+    second: JonkoBird TileMap_13
+  - first:
+      213: 1195791767619578386
+    second: JonkoBird TileMap_14
+  - first:
+      213: -3167486865344781842
+    second: JonkoBird TileMap_15
+  - first:
+      213: 2455337238820543701
+    second: JonkoBird TileMap_16
+  - first:
+      213: 3562195951444867695
+    second: JonkoBird TileMap_17
+  - first:
+      213: 1447904489364869239
+    second: JonkoBird TileMap_18
+  - first:
+      213: 81455014109004848
+    second: JonkoBird TileMap_19
+  - first:
+      213: 2233144472776827306
+    second: JonkoBird TileMap_20
+  - first:
+      213: -3578898591494494323
+    second: JonkoBird TileMap_21
+  - first:
+      213: -964001311626480762
+    second: JonkoBird TileMap_22
+  - first:
+      213: 5214297763582430686
+    second: JonkoBird TileMap_23
+  - first:
+      213: 789626343530488601
+    second: JonkoBird TileMap_24
+  - first:
+      213: -6714284201802909364
+    second: JonkoBird TileMap_25
+  - first:
+      213: -7327496197672721780
+    second: JonkoBird TileMap_26
+  - first:
+      213: 7373598714514441161
+    second: JonkoBird TileMap_27
+  - first:
+      213: -698583976660297295
+    second: JonkoBird TileMap_28
+  - first:
+      213: 1532529431550049009
+    second: JonkoBird TileMap_29
+  - first:
+      213: -5182894244578361862
+    second: JonkoBird TileMap_30
+  - first:
+      213: -6747848520443690352
+    second: JonkoBird TileMap_31
+  - first:
+      213: 1801693933429755059
+    second: JonkoBird TileMap_32
+  - first:
+      213: -7894722902794085433
+    second: JonkoBird TileMap_33
+  - first:
+      213: 1232197588147701982
+    second: JonkoBird TileMap_34
+  - first:
+      213: -7452170352578793896
+    second: JonkoBird TileMap_35
+  - first:
+      213: 363015943606852522
+    second: JonkoBird TileMap_36
+  - first:
+      213: 3428659239418547545
+    second: JonkoBird TileMap_37
+  - first:
+      213: 1845696463702429637
+    second: JonkoBird TileMap_38
+  - first:
+      213: -5532617356663815487
+    second: JonkoBird TileMap_39
+  - first:
+      213: -2147382671703549480
+    second: JonkoBird TileMap_40
+  - first:
+      213: -2532834734064152879
+    second: JonkoBird TileMap_41
+  - first:
+      213: 150259693763761773
+    second: JonkoBird TileMap_42
+  - first:
+      213: -3451600159845261655
+    second: JonkoBird TileMap_43
+  - first:
+      213: 4397805229943224348
+    second: JonkoBird TileMap_44
+  - first:
+      213: -2171410426308250841
+    second: JonkoBird TileMap_45
+  - first:
+      213: 5806930751906471098
+    second: JonkoBird TileMap_46
+  - first:
+      213: 8360108996651862326
+    second: JonkoBird TileMap_47
+  - first:
+      213: 6225341533043356467
+    second: JonkoBird TileMap_48
+  - first:
+      213: 927255719729166582
+    second: JonkoBird TileMap_49
+  - first:
+      213: -7708793510355769331
+    second: JonkoBird TileMap_50
+  - first:
+      213: 986772606886982920
+    second: JonkoBird TileMap_51
+  - first:
+      213: 6950051500025652437
+    second: JonkoBird TileMap_52
+  - first:
+      213: 5102375211541654036
+    second: JonkoBird TileMap_53
+  - first:
+      213: -8215548446891752628
+    second: JonkoBird TileMap_54
+  - first:
+      213: 2513647467551238548
+    second: JonkoBird TileMap_55
+  - first:
+      213: -5489905857870395205
+    second: JonkoBird TileMap_56
+  - first:
+      213: -591352039827008451
+    second: JonkoBird TileMap_57
+  - first:
+      213: 417688395239814958
+    second: JonkoBird TileMap_58
+  - first:
+      213: -8447891411064421030
+    second: JonkoBird TileMap_59
+  - first:
+      213: -4922134875572912655
+    second: JonkoBird TileMap_60
+  - first:
+      213: -6866283211915046059
+    second: JonkoBird TileMap_61
+  - first:
+      213: 4794087471949213252
+    second: JonkoBird TileMap_62
+  - first:
+      213: 8999945061242652720
+    second: JonkoBird TileMap_63
+  - first:
+      213: -1937671838872878334
+    second: JonkoBird TileMap_64
+  - first:
+      213: -5398743545066584083
+    second: JonkoBird TileMap_65
+  - first:
+      213: -4853438678215379853
+    second: JonkoBird TileMap_66
+  - first:
+      213: -7399078994061824503
+    second: JonkoBird TileMap_67
+  - first:
+      213: -774877717405145656
+    second: JonkoBird TileMap_68
+  - first:
+      213: 1001971127815481166
+    second: JonkoBird TileMap_69
+  - first:
+      213: -7867871798408147774
+    second: JonkoBird TileMap_70
+  - first:
+      213: -1215838534101050065
+    second: JonkoBird TileMap_71
+  - first:
+      213: -4834185606338720882
+    second: JonkoBird TileMap_72
+  - first:
+      213: -3399783994364431240
+    second: JonkoBird TileMap_73
+  - first:
+      213: 5923362955173185519
+    second: JonkoBird TileMap_74
+  - first:
+      213: -1016112962780798219
+    second: JonkoBird TileMap_75
+  - first:
+      213: 1831148600276973470
+    second: JonkoBird TileMap_76
+  - first:
+      213: 593020605589874158
+    second: JonkoBird TileMap_77
+  - first:
+      213: -6243819226154476178
+    second: JonkoBird TileMap_78
+  - first:
+      213: -5298240976391990748
+    second: JonkoBird TileMap_79
+  - first:
+      213: 1455302813101479985
+    second: JonkoBird TileMap_80
+  - first:
+      213: 3660256113926211882
+    second: JonkoBird TileMap_81
+  - first:
+      213: -3493239897248008421
+    second: JonkoBird TileMap_82
+  - first:
+      213: 726771279553603317
+    second: JonkoBird TileMap_83
+  - first:
+      213: 6418985125416412406
+    second: JonkoBird TileMap_84
+  - first:
+      213: -8311292792183765279
+    second: JonkoBird TileMap_85
+  - first:
+      213: 8812288135178160380
+    second: JonkoBird TileMap_86
+  - first:
+      213: 2780258541219708833
+    second: JonkoBird TileMap_87
+  - first:
+      213: 3247245644096391359
+    second: JonkoBird TileMap_88
+  - first:
+      213: 1999332559567583305
+    second: JonkoBird TileMap_89
+  - first:
+      213: -1294550587049966904
+    second: JonkoBird TileMap_90
+  - first:
+      213: 7100945202458155458
+    second: JonkoBird TileMap_91
+  - first:
+      213: -3394512963210834386
+    second: JonkoBird TileMap_92
+  - first:
+      213: -5701537269724272293
+    second: JonkoBird TileMap_93
+  - first:
+      213: 1187695011826103058
+    second: JonkoBird TileMap_94
+  - first:
+      213: -1654759866540934907
+    second: JonkoBird TileMap_95
+  - first:
+      213: -8426760776329927570
+    second: JonkoBird TileMap_96
+  - first:
+      213: 7660607744093818240
+    second: JonkoBird TileMap_97
+  - first:
+      213: -6606590810625613602
+    second: JonkoBird TileMap_98
+  - first:
+      213: 8892800441423196959
+    second: JonkoBird TileMap_99
+  - first:
+      213: -4971888712025661209
+    second: JonkoBird TileMap_100
+  - first:
+      213: 1223447833145888303
+    second: JonkoBird TileMap_101
+  - first:
+      213: -7810291527006913559
+    second: JonkoBird TileMap_102
+  - first:
+      213: 7465485186092914851
+    second: JonkoBird TileMap_103
+  - first:
+      213: 3516427840477329829
+    second: JonkoBird TileMap_104
+  - first:
+      213: -2043167429846089000
+    second: JonkoBird TileMap_105
+  - first:
+      213: -7690978755974710236
+    second: JonkoBird TileMap_106
+  - first:
+      213: -944872837533749390
+    second: JonkoBird TileMap_107
+  - first:
+      213: -6361110767244338417
+    second: JonkoBird TileMap_108
+  - first:
+      213: 473795514708677868
+    second: JonkoBird TileMap_109
+  - first:
+      213: -3785666579379314599
+    second: JonkoBird TileMap_110
+  - first:
+      213: 6604152189939810748
+    second: JonkoBird TileMap_111
+  - first:
+      213: -3956150367924904151
+    second: JonkoBird TileMap_112
+  - first:
+      213: -1116052028657349457
+    second: JonkoBird TileMap_113
+  - first:
+      213: -5589197810543609887
+    second: JonkoBird TileMap_114
+  - first:
+      213: -4248296578894895722
+    second: JonkoBird TileMap_115
+  - first:
+      213: -433633343557263297
+    second: JonkoBird TileMap_116
+  - first:
+      213: -8432466935463595382
+    second: JonkoBird TileMap_117
+  - first:
+      213: 6307363608063365492
+    second: JonkoBird TileMap_118
+  - first:
+      213: -2203036728075048569
+    second: JonkoBird TileMap_119
+  - first:
+      213: 7212037912367447844
+    second: JonkoBird TileMap_120
+  - first:
+      213: 7267971985080850265
+    second: JonkoBird TileMap_121
+  - first:
+      213: 863857388457003361
+    second: JonkoBird TileMap_122
+  - first:
+      213: -5294007568036211734
+    second: JonkoBird TileMap_123
+  - first:
+      213: 2824121599966494627
+    second: JonkoBird TileMap_124
+  - first:
+      213: 2582296434142936924
+    second: JonkoBird TileMap_125
+  - first:
+      213: 5381357027663119943
+    second: JonkoBird TileMap_126
+  - first:
+      213: 615547086373291969
+    second: JonkoBird TileMap_127
+  - first:
+      213: 6324755855323391812
+    second: JonkoBird TileMap_128
+  - first:
+      213: 4777549334929279038
+    second: JonkoBird TileMap_129
+  - first:
+      213: -1687663856396234029
+    second: JonkoBird TileMap_130
+  - first:
+      213: 8524602821460161634
+    second: JonkoBird TileMap_131
+  - first:
+      213: -5355923787650889104
+    second: JonkoBird TileMap_132
+  - first:
+      213: -7738193319924542972
+    second: JonkoBird TileMap_133
+  - first:
+      213: 613668646922347139
+    second: JonkoBird TileMap_134
+  - first:
+      213: -1263323925916328838
+    second: JonkoBird TileMap_135
+  - first:
+      213: -1993009760269099009
+    second: JonkoBird TileMap_136
+  - first:
+      213: -3015151107095656443
+    second: JonkoBird TileMap_137
+  - first:
+      213: -6954440065571096936
+    second: JonkoBird TileMap_138
+  - first:
+      213: 6590556120978239532
+    second: JonkoBird TileMap_139
+  - first:
+      213: -1157211218537955694
+    second: JonkoBird TileMap_140
+  - first:
+      213: 8701215556258156160
+    second: JonkoBird TileMap_141
+  - first:
+      213: 1958450570246394647
+    second: JonkoBird TileMap_142
+  - first:
+      213: 3070087353397327888
+    second: JonkoBird TileMap_143
+  - first:
+      213: -6647766749028058976
+    second: JonkoBird TileMap_144
+  - first:
+      213: 5993990124479357321
+    second: JonkoBird TileMap_0
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JonkoBird TileMap_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 129
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981aaccb24eee2350800000000000000
+      internalID: 5993990124479357321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JonkoBird TileMap_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 129
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2cb43d027821d90800000000000000
+      internalID: -7128486685120412942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JonkoBird TileMap_2
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 0
+        width: 129
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f71381c15d3f380800000000000000
+      internalID: -8938566518758604902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
